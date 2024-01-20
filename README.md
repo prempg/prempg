@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hi 👋, I'm Prem  Singh.<br>
-A Passionate Full  Stack Developer<br>
+A Passionate Full  Stack Developer.<br>
 
 🌱 I’m currently learning MERN Stack.<br>
 💬 Ask me about DSA, JavaScript, and Web development.<br>
