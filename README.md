@@ -1,13 +1,13 @@
 # 💫 About Me:
 
-Hi 👋, I'm Prem  Singh.
-A Passionate Full  Stack Developer
+Hi 👋, I'm Prem  Singh.<br>
+A Passionate Full  Stack Developer<br>
 
-🌱 I’m currently learning MERN Stack.
-💬 Ask me about DSA, JavaScript, and Web development.
-📫 How to reach bidveprathmesh590@gmail.com
+🌱 I’m currently learning MERN Stack.<br>
+💬 Ask me about DSA, JavaScript, and Web development.<br>
+📫 How to reach bidveprathmesh590@gmail.com<br>
 ⚡ Fun fact: (Ctrl+X && Ctrl+V) = Perfect Code.<br>
-     I'm a chaotic Programmer.
+     I'm a chaotic Programmer.<br>
 
 
 ## 🌐 Socials:
