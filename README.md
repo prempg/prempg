@@ -6,7 +6,7 @@ A Passionate Full  Stack Developer<br>
 🌱 I’m currently learning MERN Stack.<br>
 💬 Ask me about DSA, JavaScript, and Web development.<br>
 📫 How to reach priyanshusingh1307@gmail.com<br>
-⚡ Fun fact: (Ctrl+X && Ctrl+V) = Perfect Code.<br>
+⚡ Fun fact: (Ctrl+X && Ctrl+V) = Perfect Coder.<br>
 💥 I'm a chaotic Programmer.<br>
 
 
