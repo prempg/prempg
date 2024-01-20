@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm Currently working on Python Projects<br>I'm looking for help in getting started with Open Souce contiy.<br>I'm looking for guide in c++<br>Fun fact I'm a chaotic Programer
+
+Hi 👋, I'm Prem  Singh.
+A Passionate Full  Stack Developer
+
+🌱 I’m currently learning MERN Stack.
+💬 Ask me about DSA, JavaScript, and Web development.
+📫 How to reach bidveprathmesh590@gmail.com
+⚡ Fun fact: (Ctrl+X && Ctrl+V) = Perfect Code.<br>
+     I'm a chaotic Programmer.
 
 
 ## 🌐 Socials:
